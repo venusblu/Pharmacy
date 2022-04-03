@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
         android:layout_marginBottom="76dp"
-        android:text="ㅁㄴㄹㅇㄴㅁ"
+        android:text="ㅁㄴㄹㅇ"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintStart_toStartOf="parent" />
 
